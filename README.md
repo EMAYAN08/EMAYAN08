@@ -7,7 +7,7 @@ Full-stack Developer | DevOps Enthusiast
 I am currently pursuing a Master's degree in Applied Computer Science from Dalhousie University, enhancing my academic foundation with a focus on practical application. With ample hands-on experience in software development, I possess a strong command of various programming languages and adhere to industry best practices. My professional journey includes the creation of software applications, meticulous debugging, and collaborative teamwork. Beyond technical proficiency, I have a comprehensive understanding of software development lifecycles, Agile methodologies, Scrum practices, SOLID principles, and design patterns. Moreover, I hold certification as an AWS Cloud Practitioner, further bolstering my expertise in cloud infrastructures. My familiarity with GCP, Docker, and Kubernetes demonstrates my adaptability within dynamic technological landscapes. I am passionate about delivering innovative solutions and am eager to contribute my multifaceted skills to meaningful projects and collaborative environments.
 
 * 🌍  I'm based in Canada
-* 🖥️  See my portfolio at [https://github.com/EMAYAN08](http://github.com/EMAYAN08)
+* 🖥️  See my portfolio at [https://emayanvadivel.netlify.app/](https://emayanvadivel.netlify.app/)
 * ✉️  You can contact me at [em241005@dal.ca](mailto:em241005@dal.ca)
 * 🧠  I'm learning AWS, Full-stack Development, DevOps Engineering
 
