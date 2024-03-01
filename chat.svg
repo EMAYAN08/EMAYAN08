@@ -1,4 +1,4 @@
-<svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="700" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -323,13 +323,11 @@
   </g>
 
   <!-- Twitter -->
-  <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">
-      You can find me on LinkedIn at
-      <a xlink:href="https://www.linkedin.com/in/emayan-vadivel/">https://www.linkedin.com/in/emayan-vadivel/</a>
-    </text>
-  </g>
+<g transform="translate(10, 192)" class="msg-4">
+  <rect width="590" height="42" rx="18.0355" class="bubble" />
+  <text x="15" y="27">You can find me on LinkedIn at</text>
+  <text x="15" y="50"><a xlink:href="https://www.linkedin.com/in/emayan-vadivel/">https://www.linkedin.com/in/emayan-vadivel/</a></text>
+</g>
 
   <!-- typing 5 -->
   <g transform="translate(10, 240)" class="typing-5">
