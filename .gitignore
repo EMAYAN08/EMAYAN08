@@ -4,4 +4,4 @@ dist
 dist-ssr
 *.local
 .vercel
-.envrc
+.env
