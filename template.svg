@@ -324,7 +324,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
+    <rect width="590" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on LinkedIn at
       <a xlink:href="https://www.linkedin.com/in/emayan-vadivel/">https://www.linkedin.com/in/emayan-vadivel/</a>
