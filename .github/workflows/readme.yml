@@ -1,13 +1,11 @@
 name: Update readme
 
 on:
+  schedule:
+    - cron:  '30 5,17 * * *'
   push:
     branches:
       - main
-  workflow_dispatch:
-  schedule:
-    - cron: "0 4 * * *"
-
 jobs:
   readme:
     runs-on: ubuntu-latest
