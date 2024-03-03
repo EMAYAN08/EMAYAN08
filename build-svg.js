@@ -55,7 +55,7 @@ const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
   today
 )
 
-const psTime = formatDistance(new Date(2024, 1, 7), today, {
+const psTime = formatDistance(new Date(2024, 0, 7), today, {
   addSuffix: false,
 })
 

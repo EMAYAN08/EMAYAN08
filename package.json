@@ -7,6 +7,9 @@
     "prettier": "2.3.0"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
     "date-fns": "^2.22.1",
     "dotenv": "^16.4.5",
     "got": "^11.8.5",
