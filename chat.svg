@@ -300,8 +300,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a Software developer. I used to work at Kissflow,</text>
-    <text x="15" y="50">but I’ve been at DalTRAC for about 2 months now.</text>
+    <text x="15" y="27">I’m a DevOps Engineer. I used to work at Kissflow,</text>
+    <text x="15" y="50">but I’ve been at DalTRAC for about 4 months now.</text>
   </g>
 
   <!-- typing 4 -->
