@@ -1,19 +1,18 @@
 # 👋 Hi, I'm Emayan Vadivel!  
 
-🌟 **DevOps Engineer | Multi-Cloud Certified**  
+🌟 **DevOps Engineer | AWS (SAA,CCP), Azure (AZ-104, AZ-900) Certified**  
 🎯 Passionate about streamlining software delivery, automating infrastructure, and driving innovation in DevOps practices.  
 
 ## 🚀 Skills & Expertise  
 - **Cloud Platforms:** ☁️ Azure (AZ-104 Certified), AWS (Solutions Architect Associate Certified)  
-- **DevOps Tools:** 🛠️ Jenkins, Kubernetes, Helm, ArgoCD, SonarQube, Maven  
-- **Programming & Scripting:** 💻 Bash, Python, Java  
+- **DevOps Tools:** 🛠️ Docker, Terraform, Jenkins, Kubernetes, Helm, ArgoCD, SonarQube, Maven  
+- **Programming & Scripting:** 💻 Bash, Python, Java, JavaScript, Go  
 - **CI/CD:** 🔄 Building robust pipelines for seamless deployments  
 - **Monitoring & Optimization:** 📊 Ensuring system reliability and performance  
 
 ## 🏢 Professional Journey  
 - **Software Engineer (DevOps)** at **Wipro** *(Present)*  
-- **DalTRAC** *(Jan 2024 - Apr 2024)*  
-- **Kissflow** *(Jan 2022 - Dec 2022)*  
+- **DalTRAC** *(Jan 2024 - Apr 2024)*    
 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/emayan-vadivel/)  
