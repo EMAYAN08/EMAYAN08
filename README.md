@@ -12,7 +12,7 @@
 
 ## 🏢 Professional Journey  
 - **Software Engineer (DevOps)** at **Wipro** *(Present)*  
-- **DalTRAC** *(Jan 2024 - Apr 2024)*    
+- **DevOps Engineer Co-op at DalTRAC** *(Jan 2024 - Apr 2024)*    
 
 ## 🌐 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/emayan-vadivel/)  
