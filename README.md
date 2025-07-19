@@ -10,8 +10,9 @@
 - **CI/CD:** 🔄 Building robust pipelines for seamless deployments  
 - **Monitoring & Optimization:** 📊 Ensuring system reliability and performance  
 
-## 🏢 Professional Journey  
-- **Software Engineer (DevOps)** at **Wipro** *(Present)*  
+## 🏢 Professional Journey
+- **Cloud Engineer** at **Government of Nova Scotia** *(Present)*  
+- **Software Engineer (DevOps)** at **Wipro** *(Jul 2024 - May 2025)*  
 - **DevOps Engineer Co-op at DalTRAC** *(Jan 2024 - Apr 2024)*    
 
 ## 🌐 Connect with Me  
