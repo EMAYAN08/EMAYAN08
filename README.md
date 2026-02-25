@@ -51,28 +51,28 @@
 <table>
   <tr>
     <td align="center">
-      <a href="YOUR_AZ104_CERTIFICATION_LINK_HERE" target="_blank">
+      <a href="https://learn.microsoft.com/en-gb/users/emayanvadivel-7166/credentials/ad4d910c3123101a" target="_blank">
         <img src="https://images.credly.com/size/150x150/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="90" alt="AZ-104" />
       </a>
-      <br/><a href="YOUR_AZ104_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AZ-104</u></b></sub></a>
+      <br/><a href="https://learn.microsoft.com/en-gb/users/emayanvadivel-7166/credentials/ad4d910c3123101a" target="_blank"><sub><b><u>AZ-104</u></b></sub></a>
     </td>
     <td align="center">
-      <a href="YOUR_AZ900_CERTIFICATION_LINK_HERE" target="_blank">
+      <a href="https://learn.microsoft.com/en-us/users/emayanvadivel-7166/credentials/5428d35bde0e710" target="_blank">
         <img src="https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="90" alt="AZ-900" />
       </a>
-      <br/><a href="YOUR_AZ900_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AZ-900</u></b></sub></a>
+      <br/><a href="https://learn.microsoft.com/en-us/users/emayanvadivel-7166/credentials/5428d35bde0e710" target="_blank"><sub><b><u>AZ-900</u></b></sub></a>
     </td>
     <td align="center">
-      <a href="YOUR_AWS_SAA_CERTIFICATION_LINK_HERE" target="_blank">
+      <a href="https://www.credly.com/badges/f6d12dd1-aeff-4070-b584-499760b3275e/public_url" target="_blank">
         <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" alt="AWS SAA" />
       </a>
-      <br/><a href="YOUR_AWS_SAA_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AWS SAA</u></b></sub></a>
+      <br/><a href="https://www.credly.com/badges/f6d12dd1-aeff-4070-b584-499760b3275e/public_url" target="_blank"><sub><b><u>AWS SAA</u></b></sub></a>
     </td>
     <td align="center">
-      <a href="YOUR_AWS_CCP_CERTIFICATION_LINK_HERE" target="_blank">
+      <a href="https://www.credly.com/badges/e80a2de6-d757-460d-8386-f967b7c8bb7a/public_url" target="_blank">
         <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" alt="AWS CCP" />
       </a>
-      <br/><a href="YOUR_AWS_CCP_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AWS CCP</u></b></sub></a>
+      <br/><a href="https://www.credly.com/badges/e80a2de6-d757-460d-8386-f967b7c8bb7a/public_url" target="_blank"><sub><b><u>AWS CCP</u></b></sub></a>
     </td>
   </tr>
 </table>
