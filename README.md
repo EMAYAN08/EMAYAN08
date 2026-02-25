@@ -4,36 +4,13 @@
 
 **DevOps Engineer** passionate about streamlining software delivery, automating infrastructure, and driving innovation in DevOps practices. Currently working as a **Cloud Engineer at the Government of Nova Scotia**.
 
-### 🏅 Certifications
+### 🏢 Experience
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="YOUR_AZ104_CERTIFICATION_LINK_HERE" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="90" alt="AZ-104" />
-      </a>
-      <br/><a href="YOUR_AZ104_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AZ-104</u></b></sub></a>
-    </td>
-    <td align="center">
-      <a href="YOUR_AZ900_CERTIFICATION_LINK_HERE" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="90" alt="AZ-900" />
-      </a>
-      <br/><a href="YOUR_AZ900_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AZ-900</u></b></sub></a>
-    </td>
-    <td align="center">
-      <a href="YOUR_AWS_SAA_CERTIFICATION_LINK_HERE" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" alt="AWS SAA" />
-      </a>
-      <br/><a href="YOUR_AWS_SAA_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AWS SAA</u></b></sub></a>
-    </td>
-    <td align="center">
-      <a href="YOUR_AWS_CCP_CERTIFICATION_LINK_HERE" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" alt="AWS CCP" />
-      </a>
-      <br/><a href="YOUR_AWS_CCP_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AWS CCP</u></b></sub></a>
-    </td>
-  </tr>
-</table>
+| Role | Organization | Period |
+|---|---|---|
+| ☁️ Cloud Engineer | Government of Nova Scotia | Present |
+| 🛠️ Software Engineer (DevOps) | Wipro | Jul 2024 – May 2025 |
+| 🎓 DevOps Engineer Co-op | DalTRAC | Jan 2024 – Apr 2024 |
 
 ### 🚀 Skills & Expertise
 
@@ -69,15 +46,36 @@
   </tr>
 </table>
 
+### 🏅 Certifications
 
-
-### 🏢 Experience
-
-| Role | Organization | Period |
-|---|---|---|
-| ☁️ Cloud Engineer | Government of Nova Scotia | Present |
-| 🛠️ Software Engineer (DevOps) | Wipro | Jul 2024 – May 2025 |
-| 🎓 DevOps Engineer Co-op | DalTRAC | Jan 2024 – Apr 2024 |
+<table>
+  <tr>
+    <td align="center">
+      <a href="YOUR_AZ104_CERTIFICATION_LINK_HERE" target="_blank">
+        <img src="https://images.credly.com/size/150x150/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="90" alt="AZ-104" />
+      </a>
+      <br/><a href="YOUR_AZ104_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AZ-104</u></b></sub></a>
+    </td>
+    <td align="center">
+      <a href="YOUR_AZ900_CERTIFICATION_LINK_HERE" target="_blank">
+        <img src="https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="90" alt="AZ-900" />
+      </a>
+      <br/><a href="YOUR_AZ900_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AZ-900</u></b></sub></a>
+    </td>
+    <td align="center">
+      <a href="YOUR_AWS_SAA_CERTIFICATION_LINK_HERE" target="_blank">
+        <img src="https://images.credly.com/size/150x150/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" alt="AWS SAA" />
+      </a>
+      <br/><a href="YOUR_AWS_SAA_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AWS SAA</u></b></sub></a>
+    </td>
+    <td align="center">
+      <a href="YOUR_AWS_CCP_CERTIFICATION_LINK_HERE" target="_blank">
+        <img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" alt="AWS CCP" />
+      </a>
+      <br/><a href="YOUR_AWS_CCP_CERTIFICATION_LINK_HERE" target="_blank"><sub><b><u>AWS CCP</u></b></sub></a>
+    </td>
+  </tr>
+</table>
 
 ### 🌐 Connect
 
