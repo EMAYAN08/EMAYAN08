@@ -79,8 +79,6 @@
 | 🛠️ Software Engineer (DevOps) | Wipro | Jul 2024 – May 2025 |
 | 🎓 DevOps Engineer Co-op | DalTRAC | Jan 2024 – Apr 2024 |
 
----
-
 ### 🌐 Connect
 
 <a href="https://www.linkedin.com/in/emayan-vadivel/" target="_blank">
