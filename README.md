@@ -4,8 +4,6 @@
 
 **DevOps Engineer** passionate about streamlining software delivery, automating infrastructure, and driving innovation in DevOps practices. Currently working as a **Cloud Engineer at the Government of Nova Scotia**.
 
----
-
 ### 🏅 Certifications
 
 <table>
