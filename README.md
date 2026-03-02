@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps;Software+Engineer;DevOps+Engineer+%40+Gov.+Of+NS;Always+learning%2C+always+building!" alt="Typing SVG" />
 </p>
 
-**DevOps Engineer** passionate about streamlining software delivery, automating infrastructure, and driving innovation in DevOps practices. Currently working as a **Cloud Engineer at the Government of Nova Scotia**.
-
 ### 🏢 Experience
 
 | Role | Organization | Period |
