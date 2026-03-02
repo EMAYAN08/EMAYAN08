@@ -1,6 +1,7 @@
-# Hi, I'm Emayan Vadivel 👋
-
-> *"Turning complex problems into elegant solutions, one pipeline at a time!"*
+# Hi there, I'm Emayan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Cloud+%26+DevOps;Software+Engineer;DevOps+Engineer+%40+Gov.+Of+NS;Always+learning%2C+always+building!" alt="Typing SVG" />
+</p>
 
 **DevOps Engineer** passionate about streamlining software delivery, automating infrastructure, and driving innovation in DevOps practices. Currently working as a **Cloud Engineer at the Government of Nova Scotia**.
 
@@ -29,6 +30,18 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><strong>🛠️ Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -77,16 +90,7 @@
   </tr>
 </table>
 
-### 🌐 Connect
+### 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/emayan-vadivel/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/EMAYAN08/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:emayanramalingam@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emayan-vadivel/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:emayanramalingam@gmail.com)
