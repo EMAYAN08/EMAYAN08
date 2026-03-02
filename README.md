@@ -9,7 +9,7 @@
 
 | Role | Organization | Period |
 |---|---|---|
-| ☁️ Cloud Engineer | Government of Nova Scotia | Present |
+| ☁️ DevOps Engineer | Government of Nova Scotia | Present |
 | 🛠️ Software Engineer (DevOps) | Wipro | Jul 2024 – May 2025 |
 | 🎓 DevOps Engineer Co-op | DalTRAC | Jan 2024 – Apr 2024 |
 
